@@ -1,0 +1,31 @@
+step1 --> start your terminal or commmand pormpt
+
+step2 --->install git(by following steps )
+
+         step(a)-->in terminal-->pip install git  (if you use python)
+                         or      sudo apt-get install git  (linux)
+                         or      go to git website and simply download and install  it (windows)
+         step(b)--->git config --global user.name "yourname"
+         step(c)--->git config --global user.email "your email"
+
+
+
+
+Now initialize or add git repository
+step3-->go to your desire dirictory (###for example where your code save (in terminal ----cd Desktop/mydir/allfile))
+
+       then initialize or add git repository
+  step4 --> git init
+  step5 --> git status 
+  step6 --> git add -A
+  step7 --> git commmit -m 'initial commit'
+  
+CHoose you git repository to save your code
+ two major git repository
+  1.)Github  
+  2.)Bit Bucket
+
+  step8 --> go to browser and open Github or bit Bucket websites
+             then create repository
+           --copy the repositry link and paste in terminal 
+             now your code save in git repositoryb

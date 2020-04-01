@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Notepad++
+Exec=env WINEPREFIX="/home/rahish/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/rahish/.wine/dosdevices/c:/users/Public/Desktop/Notepad++.lnk
+Type=Application
+StartupNotify=true
+Path=/home/rahish/.wine/dosdevices/c:/Program Files (x86)/Notepad++
+Icon=1DE5_notepad++.0
+StartupWMClass=notepad++.exe

@@ -1,0 +1,25 @@
+class R
+{
+public static class id
+{
+static int y=10;
+}
+public static class layout{
+static int f=3;
+}
+public staic void main(String []w)
+{
+System.out.println(
+)}
+}
+App titleDSPMU Ranchi
+App SKUA com.example.dspmuranchi
+
+App ID
+This value
+amzn1.devportal.mobileapp.688e88881a1c4efdbc328ff558ec8c3a
+
+Release ID
+amzn1.devportal.apprelease.c443f1938eb84b2981f410c9fc49aa56
+
+
